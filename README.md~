@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ### This is to test merge confilct
 
-hello
+
+=======
+ Brijes is good boy
+>>>>>>> ec00eb02590a2c1e45fef62ec8be85eed1ff2df9
  WEBINSURE PRIVATE EXCHANGE
 
 The hCentive WebInsure Private Exchange solution allows health plans to offer defined contribution plan marketplace to small business customers.
