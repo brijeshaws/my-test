@@ -10,3 +10,9 @@ STATE MARKETPLACE FOR SMALL BUSINESSES
 Deploy a state-based Small Business Marketplace that is mature, pre-built, and easily integrates with your state insurance carriers.
 STATE MARKETPLACE FOR INDIVIDUALS
 Deploy a pre-built state-based individual marketplace that is highly configurable and cost-effective.
+
+******
+
+Tested on redhat
+
+
